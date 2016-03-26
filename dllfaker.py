@@ -1,6 +1,6 @@
 #coding=utf-8
 #
-# Dll Hijacker
+# Dll Faker
 #
 # platform: Python 2.x @ Windows 
 #
